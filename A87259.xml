@@ -1,0 +1,139 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Information for Gaven Plummer cashier to the Indian and African Company. Against John Lord Belhaven</title>
+            <author>Plummer, Gaven.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1700</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 12 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A87259</idno>
+            <idno type="STC">Wing I164</idno>
+            <idno type="STC">ESTC R215695</idno>
+            <idno type="EEBO-CITATION">99900126</idno>
+            <idno type="PROQUEST">99900126</idno>
+            <idno type="VID">132788</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A87259)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 132788)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2533:18)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Information for Gaven Plummer cashier to the Indian and African Company. Against John Lord Belhaven</title>
+                  <author>Plummer, Gaven.</author>
+               </titleStmt>
+               <extent>1 sheet ([2] p)   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[S.l. :</pubPlace>
+                  <date>1700?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imprint date suggested by Wing (CD-ROM edition).</note>
+                  <note>Reproduction of original in the John Carter Brown Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Belhaven, John Hamilton, --  Baron, 1656-1708 --  Early works to 1800.</term>
+               <term>Royal African Company --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-05</date>
+            <label>Lauren Proux</label>Sampled and proofread</change>
+         <change>
+            <date>2009-05</date>
+            <label>Lauren Proux</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:132788:1"/>
+            <head>INFORMATION <hi>For</hi> Gaven Plummer <hi>Caſhier to the</hi> Indian <hi>and</hi> African <hi>Company.</hi> Againſt John <hi>Lord</hi> Belhaven.</head>
+            <p>THe ſaid <hi>Gaven Plummer</hi> having cauſed Charge the Lord <hi>Belhaven</hi> to make payment to him (as Caſhier to the ſaid Company) of the sum of 150 <hi>lib, ſterling,</hi> as the remainder of the firſt Moiety due by the ſaid Lord <hi>Belhaven</hi> to the ſaid <hi>Africa</hi> Company, conform to his Bond. And thereupon his Lordſhip having proferred a Bill of Suſpenſion againſt this Charge, the Rea<g ref="char:EOLhyphen"/>ſons thereof were ordained to be diſscuſed on the Bill</p>
+            <p>It was alleadged for the Defender, That he being very Inſtrumental for the advancing the Affairs of the Company, and was a good Example to others, by having amongſt the firſt ſubſcribed for 3000 <hi>lib. ſterling.</hi> And that being Commiſſionat by the Patentees to nego<g ref="char:EOLhyphen"/>tiat their common affairs at <hi>London,</hi> he undertook the ſame, and had been very ſuccesfull therein, if a ſtop had not been put thereto by the Houſe of Commons who threatned, and Menaſc'd the Suſpender, to bring him to a Tryal before them, as Acting contrary to the Laws of <hi>England,</hi> by which he was neceſſitat to returne abruptly to <hi>Scotland.</hi> And that for all the Pains and Expence he had been at, in ſerving of the ſaid Company, they had only allowed him 100 <hi>lib. ſterling.</hi> Which was neither ſuitable to his Pains, Expense, or his Quality, And that the whole firſt part of that part of his Subſcription, <hi>viz.</hi> 250 <hi>lib. ſterling,</hi> was but to oſmall a Gratification and Recompence for the Service he had done to them, as ſaid is.</p>
+            <p>To which it was Anſwered, 1. That 'tis true. The Lord <hi>Belhaven</hi> was amongſt the firſt of the Subſcribers, and did Sign for 3000 <hi>lib. ſterling,</hi> And gave Bond for the ſame ac<g ref="char:EOLhyphen"/>cordingly, but 'tis as true, he was the firſt who ſhowen an uneaſineſs under that engage<g ref="char:EOLhyphen"/>ment, and brought a Diſ-reputation on the Company's Stock, by offering to transferr his Subſcription to others, before the Books were half compleated, and did actually transferr 1000 <hi>lib. ſterling</hi> thereof, to <hi>Robert Craig</hi> of <hi>Rickerton,</hi> another 1000 <hi>lib ſterling</hi> thereof to ſome in the Direction, who ventured it ſeems clandiſtinely, to take the ſame of the Suſpenders hands, in truſt for the Company, rather than have it propall'd abroad, that one of his Lordſhips Character, had been ſo early at his Repentance, leſt the ſame might be a great diſ-couragement to others, and reſerved only the third 1000. <hi>lib. ſterling,</hi> to himſelf. for which Sum, The Suſpender would, it ſeems, have an intereſt in the Company's Stock without any part thereof to the Charger.</p>
+            <p n="2">2. It was denyed that the Suſpender had any Commiſſion from the Patentees to Nego<g ref="char:EOLhyphen"/>tiat the Affairs of the Company at <hi>London,</hi> tho it is not doubted he was deſired by ſome of their number to go and give his aſſiſtance in promoting ſo National a deſign; and it is ac<g ref="char:EOLhyphen"/>knowledged that he did it with all the ſincerity and zeal imaginable, for which after the Company was regularly conſtituted, the Court of Directors and Council-general, in re<g ref="char:EOLhyphen"/>cuiting of the Suſpenders good intentions, tho' otherways ineffectual, did allow him 100 <hi>lib. ſterl.</hi> which is more than 20 <hi>ſh. ſterl. per diem,</hi> during his abſence, beſides 10 <hi>lib. sterl:</hi> for Poſtage, up &amp; down. Whereas it might have been contended in Law, that the Company was not oblig'd to give him any thing upon thir grounds. 1. He had no Commiſſion from the Patentees, or major part of them, but what he did was out of a frank and free offer of his own, and conſequently can pretend to no more than a voluntar Gratification, whatever his Expences be, more or leſs. 2. This being before the Conſtitution of the Company, it could be no tye nor Bond upon them: But notwithſtanding thereof, they were ſo gene<g ref="char:EOLhyphen"/>rous, as to allow him 100 <hi>lib. ſterl.</hi> for his neceſſary Charges, as aforeſaid, which certain<g ref="char:EOLhyphen"/>ly might very well defray the ſame, conſidering his ſtay there was ſo ſhort, &amp; for the moſt part in company with Merchants, who bore an equal proportion to a Penny of all expences: And if the Lord <hi>Belhaven</hi> had not thought that Sum ſuitable to his quality and ſervice done to the Company, it had been very ſuitable to his Lordſhips quality to have rejected the ſame altogether, and given his ſervice and pains generouſly to the Company, without ex<g ref="char:EOLhyphen"/>pectation of any Gratification or Re-imburſment of his Expences, eſpecially ſince his en<g ref="char:EOLhyphen"/>deavours, how well ſoever intended were of no advantage to the Company.</p>
+            <p>To which it was Replyed, That it is known to all perſons whoever were at <hi>London,</hi> that one of the Lo. <hi>Belhavens</hi> quality could not go to <hi>Lond.</hi> &amp; ſtay there but 8 days, without being at fargreater expences than 100 <hi>lib. ſter.</hi> altho he had no buſineſs to do, ſave only to make one
+<pb facs="tcp:132788:2" rendition="simple:additions"/>ſingle appearance at Court, but that in this caſe he had extraordinary occaſion of Charges, by being obliged to go ſeveral times to Court, wait upon, and ſpeak to the King, to get his Coun<g ref="char:EOLhyphen"/>tenance and Protection to the ſaid Company; to be at many and frequent Meetings with <hi>Engliſh</hi> Merchants, who were to ingâge therein: and that the Expence of ten weeks at firſt at <hi>London,</hi> would be as great as if he had ſtayed ſix Moneths; and no man can think that the Lord <hi>Belhaven</hi> could have ſtayed at <hi>London</hi> ſix Moneths for a 100 <hi>lib. Sterl.</hi>
+            </p>
+            <p>To which it was Duplyed, that the Anſwer to the reaſons ſtand relevant, notwithſtanding of the Reply. And 1. If the Lord <hi>Belhaven</hi> be as much concerned in the Intereſt of the Company as he pretends, he ſhould conſider the vaſt and great Charges which the Company is at without expectation of Profit for a conſiderable time, and how cheerfully ſeveral Perſons of the greateſt Quality in the Nation are, all this time, at great Pains, and give inceſſant attendance (which cannot be without conſiderable Expence) in Promoting and Advancing the Intereſt and Affairs of the Company; yet never pretended any Re-imburſment of their Expence or Gratification for their Pains. 2. The Suſpender cannot (upon calm reaſoning) urge, but that the Company had all due regard to his Quality, and dealt very tenderly with him in this matter all along, for when upon the eight day of <hi>December</hi> laſt, at a Council-General of the ſaid Company, (where the Marqueſs of <hi>Tweeddale,</hi> Earls of <hi>Lawderdale, Leven, Annandale</hi> and <hi>Panmure,</hi> Lord Juſtice Clerk, <hi>Croſrigg,</hi> and ſeveral other Perſons of Honour were preſent, his Lordſhip preſſed the con<g ref="char:EOLhyphen"/>ſideration of that matter with all the Arguments he could think of, they modified his Allowance to the Sum above-mentioned, ſo much now complained of: after which the Suſpender gave in a Repreſentation in writing to the Directors, craving a larger Allowance, which Repreſentati<g ref="char:EOLhyphen"/>on was communicated to a ſubſequent Council-General, where after full and deliberat Reaſon<g ref="char:EOLhyphen"/>ing upon the ſubject matter thereof, they Adhered to their former Determination: nor can it well be ſuppoſed, but that all theſe Honourable Perſons would have all due regard, both to my Lord <hi>Belhavens</hi> Quality, his neceſſary Charges, Conditions and Circumſtances of the Company; nor would they doubtleſs do any thing which might be a Reflection upon any Perſon of Quality; much leſs upon the Lord <hi>Belhaven,</hi> one of their own number and Society.</p>
+            <p n="3">3. The ſaid Court of Directors and Counſel General did follow the ſame method, with the Lord <hi>Belhaven</hi> as they did with Lievetenant-collonel <hi>Erskin</hi> and Laird of <hi>Glen<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>agles,</hi> who were duely and ſolemnly commiſſionated by the Company to negotiate their affairs in <hi>London, Holland</hi> and <hi>Hamburgh,</hi> and had only an allowance of 20 <hi>Shilling Sterling per diem</hi> each, without any regard to Poſtage or tranſportation, tho the ſuſpender had allowance for that alſo over and above, and it's hoped the Suſpender will acknowledge that they were perſons of good quality, and that their expenſe in repreſenting the Company conſtituted, may reaſonably be ſuppoſed, to equal at leaſt the Expenſes of thoſe who acted for promot<g ref="char:EOLhyphen"/>ing the company before it was conſtituted; eſpecially they acting by Commiſſion, as ſaid is, but the Suſpender only of his own accord without one, ſo in Law he can pretend to no more than what the Company thinks fit to allow him, yet the Company without any conſtraint has allowed him what they thought ſutable to his Expenſes as not being deſirous that any perſon ſhould be loſer for ſervices done to them and over and above reſtricted their Charge againſt him to 150 <hi>lib. Sterl.</hi> whereas they very well might have charged him for 250 <hi>lib. Sterl.</hi> more being the firſt fourth part of the other 1000 <hi>lib. ſterl.</hi> Subſcription which his Lordſhip turned back upon the Company in manner above men<g ref="char:EOLhyphen"/>tioned, and for which his Bond ſtands ſtill unretired to this hour.</p>
+            <p>And whereas it was alledged for the Suſpender that Lievetenant-Collonel <hi>Erskin</hi> and <hi>Gleneagles</hi> were imployed in matters, by which they could make other conſiderable by advan<g ref="char:EOLhyphen"/>tages over and above their modified allouance above mentioned; ſuch as the bargaining for and buying of Ships, <hi>&amp;c.</hi> And ſo could be no juſt precedent for modifying the Suſpenders Expenſes by: It is a groſs and abſolute calumny for that was no part of their Com<g ref="char:EOLhyphen"/>m<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſſion, <hi>Alexander Steveuſon,</hi> and <hi>James Gibſon</hi> being (long before they went abroad) ſolely imployed therein; And it may very well be ſuppoſed that none would make any ſuch groundleſs and unwarrantable inggeſtion at the Barr againſt Perſons of their Honour, &amp; known integrity to the Company but who in all probability would be ready themſelves to make all advantages whatſoever beyond their allowance, if they were imployed in any ſuch truſt.</p>
+            <p n="4">4. It cannot well be underſtood how the Expences of eight or ten weeks at <hi>London</hi> ſhould be as much as if he had ſtaid there ſix months. And altho it be acknowledg'd that the Lord <hi>Balhaven</hi> appeared ſome few times at Court upon that occaſion yet we cannot ſup<g ref="char:EOLhyphen"/>poſe the Suſpender was ſo prodigal of his Money as to be at conſiderable extraordinary Expenſes for things which would not be of uſe to him afterwards, eſpecially being all that time oblig'd to be in mourning for his Fathers Death; And as to any Expenſes which the Suſpender might be at in meeting at ſeveral times with <hi>Engliſh</hi> Merchants, Mr. <hi>Robert Blackwood</hi> and <hi>James Balfour</hi> (his Colleagues upon this occaſion) were ſtill preſent with him, and do averr that each of them did bear a proportionable ſhare of all Expenſe with his Lordſhip, &amp; yet the Company out of reſpect to his Lordſhips quality did allow them but half the allowance <hi>per diem</hi> which they allow'd to his Lordſhip.</p>
+            <p>
+               <hi>In Reſpect whereof,</hi> &amp;c.</p>
+            <pb facs="tcp:132788:3" rendition="simple:additions"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+         </div>
+      </body>
+   </text>
+</TEI>
